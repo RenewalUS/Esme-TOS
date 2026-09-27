@@ -1,121 +1,249 @@
-Creative Commons Legal Code
+Esme — Terms of Use
 
-CC0 1.0 Universal
+Effective Date: September 18, 2026
+Last Updated: September 18, 2026
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+Welcome to Esme, a Discord bot operated by Renewal ("Renewal", "we", "us", or "our").
 
-Statement of Purpose
+Esme is a Discord-based interface used to interact with Erupe and its associated systems. Esme may retrieve, process, and modify information stored within Erupe's PostgreSQL database, including information relating to players and their game accounts.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+These Terms of Use ("Terms") govern your access to and use of Esme and its related functionality (collectively, the "Services").
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+By using Esme, you agree to these Terms. If you do not agree with them, you must not use Esme.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+1. Eligibility and Authorization
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+You must comply with Discord's Terms of Service and Community Guidelines when using Esme.
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+You may only use Esme and its database-related functionality if you are authorized to do so.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+If Esme provides you with the ability to view or modify player information, you are responsible for ensuring that you have the appropriate authorization to perform those actions.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+You must not use Esme to access, modify, disclose, or otherwise interact with player data that you are not authorized to access.
 
-4. Limitations and Disclaimers.
+If you use Esme on behalf of a server, organization, community, or other entity, you represent that you have the authority to do so.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+2. Purpose of Esme
+
+Esme is primarily designed to provide a Discord interface for interacting with Erupe.
+
+Depending on your permissions and the functionality available to you, Esme may allow you to:
+
+- Retrieve information from Erupe.
+- Submit commands or requests to Erupe.
+- Modify information stored in Erupe's PostgreSQL database.
+- Perform administrative or game-related actions.
+- Process player-related information in order to fulfill a requested operation.
+
+Esme acts as an interface between Discord users and Erupe. Certain actions performed through Esme may directly affect information stored by Erupe.
+
+Because some commands can modify persistent data, you are responsible for reviewing commands and their effects before executing them.
+
+3. Player Data
+
+Esme may have access to player data stored within Erupe's PostgreSQL database.
+
+This information may include, depending on the functionality being used:
+
+- Player identifiers.
+- Character information.
+- Game-related statistics.
+- Inventory or progression information.
+- Game account-related information.
+- Other information associated with a player's use of Erupe.
+
+The term "game account-related information" refers to information associated with a player's account within Erupe or the applicable game environment. It does not refer to a user's Discord account information.
+
+Esme processes this information only as necessary to respond to commands and perform the functionality requested by the user.
+
+Esme does not independently store player data on third-party servers.
+
+Data retrieved from Erupe may be processed in memory or otherwise handled temporarily as necessary to execute a requested command or generate a response. Esme is not intended to maintain an independent copy of Erupe's player database.
+
+4. Database Access and Modifications
+
+Certain Esme commands may directly interact with Erupe's PostgreSQL database.
+
+Depending on the command and the user's permissions, an action may create, update, or otherwise modify information stored in the database.
+
+You agree not to:
+
+- Access player data without authorization.
+- Modify another player's information without authorization.
+- Use Esme to circumvent Erupe's permissions or security controls.
+- Attempt to manipulate database records outside the intended functionality of Esme.
+- Use commands to intentionally corrupt, delete, or compromise database information.
+- Attempt to obtain direct database credentials or unauthorized access to the PostgreSQL database.
+- Use Esme to automate unauthorized database modifications.
+- Exploit bugs or unintended behavior to gain access to information or functionality.
+
+Unauthorized database access or modification may result in immediate loss of access to Esme and may also result in other appropriate action.
+
+5. Responsibility for Commands
+
+You are responsible for commands and actions you perform through Esme.
+
+Where a command modifies Erupe data, you should verify that the command, target, and requested changes are correct before executing it.
+
+Renewal is not responsible for changes made to player data as a result of an authorized user intentionally or accidentally executing a command.
+
+If Esme provides confirmation or preview functionality, such functionality is intended to reduce accidental changes but does not guarantee that an action will be reversible.
+
+6. Acceptable Use
+
+You agree not to use Esme to:
+
+- Violate Discord's Terms of Service or Community Guidelines.
+- Violate applicable laws or regulations.
+- Access or modify data without authorization.
+- Harass, threaten, abuse, or harm others.
+- Facilitate fraud, scams, phishing, or deceptive activity.
+- Circumvent permissions or access controls.
+- Exploit vulnerabilities or bugs.
+- Interfere with Esme, Erupe, or their infrastructure.
+- Intentionally overload or abuse Esme's systems.
+- Attempt to obtain credentials, tokens, database credentials, or other secrets.
+- Reverse engineer proprietary components except where permitted by applicable law.
+- Use Esme to gain an unfair or unauthorized advantage within Erupe.
+- Use Esme for purposes that could reasonably compromise the security, integrity, or availability of Erupe.
+
+7. Discord
+
+Esme operates through Discord and relies on Discord's services and APIs.
+
+Your use of Discord remains subject to Discord's own terms, policies, and rules.
+
+Renewal is independent of Discord and is not affiliated with, endorsed by, or sponsored by Discord unless expressly stated otherwise.
+
+Discord may change its APIs, policies, permissions, or services in ways that affect Esme's functionality. Renewal cannot guarantee that Esme will remain compatible with Discord indefinitely.
+
+8. Privacy and Data Processing
+
+Esme processes information in order to execute commands and provide responses to users.
+
+Esme does not use third-party data-storage services to maintain a separate copy of player data.
+
+Information may be transmitted through Discord as part of normal Discord bot functionality. Once information is sent through Discord, its handling is also subject to Discord's policies and practices.
+
+Esme may temporarily process information in memory or through its infrastructure when necessary to execute a request.
+
+Esme uses player data solely for the purpose of processing the requested operation and providing the resulting response or functionality to the user.
+
+9. Erupe
+
+Erupe is the system and game environment with which Esme interacts.
+
+Information displayed or modified by Esme may originate from Erupe's database. Renewal is not responsible for inaccuracies that already exist within Erupe's data.
+
+Changes made through Esme may be reflected directly in Erupe.
+
+If an issue occurs with player data, users should report it through the appropriate Renewal or Erupe support channel.
+
+10. Software and Open-Source Licensing
+
+Esme's source code is publicly available in the Esme GitHub repository.
+
+The copyright and licensing of the Esme source code are governed by the license included with the source code repository. These Terms of Use do not replace, restrict, or supersede rights granted by that license.
+
+The current repository license is Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), with copyright attributed to theMaelstro.
+
+The source-code license applies to the source code and other materials covered by that license. The operation of the hosted Esme service, its Discord bot instance, its configuration, infrastructure, credentials, databases, and other operational resources may be subject to additional restrictions and are not automatically granted to users merely because the source code is publicly available.
+
+Nothing in these Terms grants you access to Renewal's infrastructure, credentials, databases, Erupe's PostgreSQL database, or any other systems used to operate Esme.
+
+For the source code and its applicable license, refer to the official repository:
+
+"Esme GitHub Repository" (https://github.com/theMaelstro/Esme)
+
+11. Third-Party Services
+
+Esme relies on third-party services, most notably Discord.
+
+Third-party services may have their own terms, privacy policies, security practices, and availability requirements.
+
+Renewal does not control third-party services and cannot guarantee their continued availability or functionality.
+
+12. Availability
+
+Renewal attempts to keep Esme available and operational but does not guarantee uninterrupted or error-free service.
+
+Esme may become unavailable because of maintenance, software updates, infrastructure problems, Discord API changes, Erupe changes, security incidents, or other circumstances beyond Renewal's reasonable control.
+
+Renewal may modify, suspend, or discontinue Esme or individual features at any time.
+
+13. No Warranty
+
+To the maximum extent permitted by applicable law, Esme is provided on an "as is" and "as available" basis.
+
+Renewal does not guarantee that:
+
+- Esme will always be available.
+- Esme will always operate without errors.
+- Information returned by Esme will always be accurate or current.
+- Commands will always produce a particular result.
+- Database modifications will always be reversible.
+- Esme will remain compatible with Discord or Erupe indefinitely.
+
+14. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Renewal and its owners, developers, contributors, affiliates, and representatives will not be liable for indirect, incidental, consequential, special, or other damages arising from your use of or inability to use Esme.
+
+This includes, where legally permitted, loss of player progression, loss or corruption of data, inability to access Erupe, service interruptions, or unintended changes resulting from the use of Esme.
+
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited under applicable law.
+
+15. Suspension and Termination
+
+Renewal may suspend or terminate access to Esme if you:
+
+- Violate these Terms.
+- Access or modify data without authorization.
+- Abuse Esme or its infrastructure.
+- Attempt to compromise Esme or Erupe.
+- Violate Discord's rules.
+- Use Esme in a manner that presents a security or operational risk.
+
+You may stop using Esme at any time.
+
+Termination of access does not necessarily require the immediate deletion of technical logs or other information where retention is reasonably necessary for security, legal, or operational purposes.
+
+16. Changes to These Terms
+
+Renewal may update these Terms from time to time.
+
+Material changes may be communicated through Esme, Renewal's website, an official Discord server, or another reasonable method.
+
+Your continued use of Esme after the updated Terms take effect constitutes acceptance of the revised Terms.
+
+If you do not agree to the revised Terms, you must stop using Esme.
+
+17. Indemnification
+
+To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Renewal and its owners, developers, contributors, affiliates, and representatives from claims, damages, liabilities, losses, and expenses arising from:
+
+- Your misuse of Esme.
+- Your unauthorized access to or modification of data.
+- Your violation of these Terms.
+- Your violation of Discord's rules.
+- Your violation of applicable laws.
+- Your infringement of another person's rights.
+
+18. Severability
+
+If any provision of these Terms is determined to be invalid or unenforceable, that provision will be limited or removed to the minimum extent necessary, and the remaining provisions will continue to apply.
+
+19. Entire Agreement
+
+These Terms, together with any policies expressly incorporated into them, constitute the agreement between you and Renewal regarding your use of Esme.
+
+20. Contact
+
+Questions, concerns, or requests regarding Esme or these Terms should be directed to Renewal through the official support channels provided for Esme.
+
+---
+
+Esme is operated by Renewal.
+
+Source code: "Esme GitHub Repository" (https://github.com/theMaelstro/Esme)
+
+© 2024 theMaelstro. Source code licensing is subject to the license included in the Esme repository.
